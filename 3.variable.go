@@ -18,10 +18,22 @@ func main() {
 	// fmt.Println(job)
 
 	// Multi Variable
-	var first, second, third string
-	first, second, third = "Satu", "Dua", "Tiga"
+	// var first, second, third string
+	// first, second, third = "Satu", "Dua", "Tiga"
 
-	var fourth, fifth, sixth string = "empat", "lima", "enam"
+	// var fourth, fifth, sixth string = "empat", "lima", "enam"
 
-	seventh, eigth, ninth := "7", "8", "9"
+	// seventh, eigth, ninth := "7", "8", "9"
+
+	// undescore
+	// _ = "Golang"
+	// _ = "Golang itu mudah"
+
+	// name, _ = "Rijal", "Solahudin"
+
+	// Keyword New
+
+	name := new(string)
+
+	fmt.Println(*name)
 }
