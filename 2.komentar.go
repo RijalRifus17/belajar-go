@@ -4,11 +4,11 @@ import "fmt"
 
 /*
 	Ini komentar multi line
-	Brefun
+	hehe 
 */
 
 func main() {
-	// ini komentat
+	// ini komentar
 
 	fmt.Println("HI")
 }
