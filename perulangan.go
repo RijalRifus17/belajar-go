@@ -1,9 +1,9 @@
-// package main
+package main
 
-// import "fmt"
+import "fmt"
 
-// func main() {
-// 	for i := 0; i < 5; i++ {
-// 		fmt.Println(i)
-// 	}
-// }
+func main() {
+	for i := 0; i < 5; i++ {
+		fmt.Println(i)
+	}
+}
